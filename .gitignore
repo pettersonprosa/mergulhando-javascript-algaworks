@@ -1,0 +1,2 @@
+# Ignorar todos os node_modules em qualquer lugar do projeto
+**/node_modules/
