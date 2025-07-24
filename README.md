@@ -3,7 +3,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-Este repositório contém os estudos pessoais realizados durante o curso _Mergulhando no JavaScript_, da AlgaWorks.
+Este repositório contém os estudos pessoais realizados durante o curso _Mergulhando no JavaScript_ da AlgaWorks.
 
 ## Objetivo
 Desenvolver uma base sólida em JavaScript moderno (ES6+), explorando desde os fundamentos da linguagem até técnicas avançadas como orientação a objetos, manipulação de arrays, promises, módulos, pacotes e introdução ao TypeScript.
